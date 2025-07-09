@@ -25,7 +25,7 @@ A simple Todo application built with Go, MySQL, and Chi router. This app allows 
 
 ### Pull and Run the Docker Image
 
-You can pull the pre-built Docker image from Docker Hub and run it directly:
+You can pull the pre-built Docker image from Docker Hub and run it directly: (https://hub.docker.com/r/disara/todo)
 
 ```bash
 docker pull disara/todo:latest
